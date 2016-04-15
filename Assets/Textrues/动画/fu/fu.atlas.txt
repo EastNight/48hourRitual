@@ -1,0 +1,48 @@
+
+fu.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fu1
+  rotate: false
+  xy: 2, 2
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+fu6
+  rotate: false
+  xy: 2, 2
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+fu3
+  rotate: false
+  xy: 2, 2
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+fu5
+  rotate: false
+  xy: 2, 2
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+fu4
+  rotate: false
+  xy: 2, 2
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+fu2
+  rotate: false
+  xy: 2, 2
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1

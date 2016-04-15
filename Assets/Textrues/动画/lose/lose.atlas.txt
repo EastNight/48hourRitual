@@ -1,0 +1,20 @@
+
+lose.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lose
+  rotate: false
+  xy: 2, 379
+  size: 667, 375
+  orig: 667, 375
+  offset: 0, 0
+  index: -1
+lose2
+  rotate: false
+  xy: 2, 2
+  size: 667, 375
+  orig: 667, 375
+  offset: 0, 0
+  index: -1

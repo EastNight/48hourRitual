@@ -1,0 +1,238 @@
+
+merge.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+merge_00000
+  rotate: false
+  xy: 2, 379
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+merge_00001
+  rotate: false
+  xy: 2, 2
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+merge_00002
+  rotate: false
+  xy: 504, 379
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+merge_00003
+  rotate: false
+  xy: 504, 2
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+
+merge2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+merge_00004
+  rotate: false
+  xy: 2, 379
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+merge_00005
+  rotate: false
+  xy: 2, 2
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+merge_00006
+  rotate: false
+  xy: 504, 379
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+merge_00007
+  rotate: false
+  xy: 504, 2
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+
+merge3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+merge_00008
+  rotate: false
+  xy: 2, 379
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+merge_00009
+  rotate: false
+  xy: 2, 2
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+merge_00010
+  rotate: false
+  xy: 504, 379
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+merge_00011
+  rotate: false
+  xy: 504, 2
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+
+merge4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+merge_00012
+  rotate: false
+  xy: 2, 379
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+merge_00013
+  rotate: false
+  xy: 2, 2
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+merge_00014
+  rotate: false
+  xy: 504, 379
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+merge_00015
+  rotate: false
+  xy: 504, 2
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+
+merge5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+merge_00016
+  rotate: false
+  xy: 2, 379
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+merge_00017
+  rotate: false
+  xy: 2, 2
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+merge_00018
+  rotate: false
+  xy: 504, 379
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+merge_00019
+  rotate: false
+  xy: 504, 2
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+
+merge6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+merge_00020
+  rotate: false
+  xy: 2, 379
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+merge_00021
+  rotate: false
+  xy: 2, 2
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+merge_00022
+  rotate: false
+  xy: 504, 379
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+merge_00023
+  rotate: false
+  xy: 504, 2
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+
+merge7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+merge_00024
+  rotate: false
+  xy: 2, 379
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+merge_00025
+  rotate: false
+  xy: 2, 2
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+merge_00026
+  rotate: false
+  xy: 504, 379
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1
+merge_00027
+  rotate: false
+  xy: 504, 2
+  size: 500, 375
+  orig: 500, 375
+  offset: 0, 0
+  index: -1

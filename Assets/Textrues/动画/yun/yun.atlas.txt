@@ -1,0 +1,48 @@
+
+yun.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yun1
+  rotate: false
+  xy: 2, 405
+  size: 677, 195
+  orig: 677, 195
+  offset: 0, 0
+  index: -1
+yun2
+  rotate: false
+  xy: 2, 602
+  size: 1000, 409
+  orig: 1000, 409
+  offset: 0, 0
+  index: -1
+yun3
+  rotate: false
+  xy: 681, 406
+  size: 160, 194
+  orig: 160, 194
+  offset: 0, 0
+  index: -1
+yun4
+  rotate: false
+  xy: 2, 241
+  size: 635, 162
+  orig: 635, 162
+  offset: 0, 0
+  index: -1
+yun5
+  rotate: false
+  xy: 2, 2
+  size: 367, 143
+  orig: 367, 143
+  offset: 0, 0
+  index: -1
+yun6
+  rotate: false
+  xy: 2, 147
+  size: 531, 92
+  orig: 531, 92
+  offset: 0, 0
+  index: -1

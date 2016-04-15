@@ -1,0 +1,279 @@
+
+gui.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guishengti
+  rotate: false
+  xy: 467, 368
+  size: 32, 153
+  orig: 32, 153
+  offset: 0, 0
+  index: -1
+guishou1
+  rotate: true
+  xy: 2, 2
+  size: 18, 53
+  orig: 18, 53
+  offset: 0, 0
+  index: -1
+guishou2
+  rotate: false
+  xy: 560, 636
+  size: 20, 52
+  orig: 20, 52
+  offset: 0, 0
+  index: -1
+guiyan
+  rotate: false
+  xy: 653, 850
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+guiying00000
+  rotate: false
+  xy: 2, 857
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00001
+  rotate: false
+  xy: 2, 690
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00002
+  rotate: false
+  xy: 95, 857
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00003
+  rotate: false
+  xy: 2, 523
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00004
+  rotate: false
+  xy: 95, 690
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00005
+  rotate: false
+  xy: 188, 857
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00006
+  rotate: false
+  xy: 2, 356
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00007
+  rotate: false
+  xy: 95, 523
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00008
+  rotate: false
+  xy: 188, 690
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00009
+  rotate: false
+  xy: 281, 857
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00010
+  rotate: false
+  xy: 2, 189
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00011
+  rotate: false
+  xy: 95, 356
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00012
+  rotate: false
+  xy: 188, 523
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00013
+  rotate: false
+  xy: 281, 690
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00014
+  rotate: false
+  xy: 374, 857
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00015
+  rotate: false
+  xy: 2, 22
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00016
+  rotate: false
+  xy: 95, 189
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00017
+  rotate: false
+  xy: 188, 356
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00018
+  rotate: false
+  xy: 281, 523
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00019
+  rotate: false
+  xy: 374, 690
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00020
+  rotate: false
+  xy: 467, 857
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00021
+  rotate: false
+  xy: 95, 22
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00022
+  rotate: false
+  xy: 188, 189
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00023
+  rotate: false
+  xy: 281, 356
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00024
+  rotate: false
+  xy: 374, 523
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00025
+  rotate: false
+  xy: 467, 690
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00026
+  rotate: false
+  xy: 560, 857
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00027
+  rotate: false
+  xy: 188, 22
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00028
+  rotate: false
+  xy: 281, 189
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00029
+  rotate: false
+  xy: 374, 356
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00030
+  rotate: false
+  xy: 467, 523
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00031
+  rotate: false
+  xy: 560, 690
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00032
+  rotate: false
+  xy: 653, 857
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00033
+  rotate: false
+  xy: 281, 22
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1
+guiying00034
+  rotate: false
+  xy: 374, 189
+  size: 91, 165
+  orig: 91, 165
+  offset: 0, 0
+  index: -1

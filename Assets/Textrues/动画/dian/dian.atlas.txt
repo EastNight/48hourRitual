@@ -1,0 +1,53 @@
+
+dian.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian_00004
+  rotate: false
+  xy: 2, 379
+  size: 667, 375
+  orig: 667, 375
+  offset: 0, 0
+  index: -1
+dian_00005
+  rotate: false
+  xy: 2, 2
+  size: 667, 375
+  orig: 667, 375
+  offset: 0, 0
+  index: -1
+
+dian2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian_00006
+  rotate: false
+  xy: 2, 379
+  size: 667, 375
+  orig: 667, 375
+  offset: 0, 0
+  index: -1
+dian_00007
+  rotate: false
+  xy: 2, 2
+  size: 667, 375
+  orig: 667, 375
+  offset: 0, 0
+  index: -1
+
+dian3.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian_00008
+  rotate: false
+  xy: 2, 2
+  size: 667, 375
+  orig: 667, 375
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,103 @@
+{
+"skeleton": { "hash": "Ofohg6pWaaE3Prgpn9StYSDdA/4", "spine": "2.1.27", "width": 79, "height": 590, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": 1, "y": 1 }
+],
+"slots": [
+	{ "name": "jin0", "bone": "bone", "attachment": "jin000019" },
+	{ "name": "jin000000", "bone": "root" }
+],
+"skins": {
+	"default": {
+		"jin0": {
+			"jin000000": { "y": -65, "width": 79, "height": 590 },
+			"jin000001": { "y": -65, "width": 79, "height": 590 },
+			"jin000002": { "y": -65, "width": 79, "height": 590 },
+			"jin000003": { "y": -65, "width": 79, "height": 590 },
+			"jin000004": { "y": -65, "width": 79, "height": 590 },
+			"jin000005": { "y": -65, "width": 79, "height": 590 },
+			"jin000006": { "y": -65, "width": 79, "height": 590 },
+			"jin000007": { "y": -65, "width": 79, "height": 590 },
+			"jin000008": { "y": -65, "width": 79, "height": 590 },
+			"jin000009": { "y": -65, "width": 79, "height": 590 },
+			"jin000010": { "y": -65, "width": 79, "height": 590 },
+			"jin000011": { "y": -65, "width": 79, "height": 590 },
+			"jin000012": { "y": -65, "width": 79, "height": 590 },
+			"jin000013": { "y": -65, "width": 79, "height": 590 },
+			"jin000014": { "y": -65, "width": 79, "height": 590 },
+			"jin000015": { "y": -65, "width": 79, "height": 590 },
+			"jin000016": { "y": -65, "width": 79, "height": 590 },
+			"jin000017": { "y": -65, "width": 79, "height": 590 },
+			"jin000018": { "y": -65, "width": 79, "height": 590 },
+			"jin000019": { "y": -65, "width": 79, "height": 590 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"jin000000": {
+				"attachment": [
+					{ "time": 2, "name": null }
+				]
+			},
+			"jin0": {
+				"attachment": [
+					{ "time": 1.3333, "name": "jin000000" },
+					{ "time": 1.3666, "name": "jin000001" },
+					{ "time": 1.4, "name": "jin000002" },
+					{ "time": 1.4333, "name": "jin000003" },
+					{ "time": 1.4666, "name": "jin000004" },
+					{ "time": 1.5, "name": "jin000005" },
+					{ "time": 1.5333, "name": "jin000006" },
+					{ "time": 1.5666, "name": "jin000007" },
+					{ "time": 1.6, "name": "jin000008" },
+					{ "time": 1.6333, "name": "jin000009" },
+					{ "time": 1.6666, "name": "jin000010" },
+					{ "time": 1.7, "name": "jin000011" },
+					{ "time": 1.7333, "name": "jin000012" },
+					{ "time": 1.7666, "name": "jin000013" },
+					{ "time": 1.8, "name": "jin000014" },
+					{ "time": 1.8333, "name": "jin000015" },
+					{ "time": 1.8666, "name": "jin000016" },
+					{ "time": 1.9, "name": "jin000017" },
+					{ "time": 1.9333, "name": "jin000018" },
+					{ "time": 1.9666, "name": "jin000019" },
+					{ "time": 2, "name": "jin000019" }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 2, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2, "x": 1, "y": 1 }
+				]
+			},
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 2, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,235 @@
+
+newborn.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Neon1
+  rotate: false
+  xy: 2, 606
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/Neon10
+  rotate: false
+  xy: 406, 2
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/Neon11
+  rotate: false
+  xy: 608, 304
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/Neon12
+  rotate: false
+  xy: 810, 606
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/Neon13
+  rotate: false
+  xy: 608, 2
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/Neon14
+  rotate: false
+  xy: 810, 304
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/Neon15
+  rotate: false
+  xy: 810, 2
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/Neon2
+  rotate: false
+  xy: 2, 304
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/Neon3
+  rotate: false
+  xy: 204, 606
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/Neon4
+  rotate: false
+  xy: 2, 2
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/Neon5
+  rotate: false
+  xy: 204, 304
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/Neon6
+  rotate: false
+  xy: 406, 606
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/Neon7
+  rotate: false
+  xy: 204, 2
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/Neon8
+  rotate: false
+  xy: 406, 304
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/Neon9
+  rotate: false
+  xy: 608, 606
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+
+newborn2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Neon16
+  rotate: false
+  xy: 2, 606
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/Neon17
+  rotate: false
+  xy: 2, 304
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/Neon18
+  rotate: false
+  xy: 204, 606
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/Neon19
+  rotate: false
+  xy: 2, 2
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/Neon20
+  rotate: false
+  xy: 204, 304
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/Neon21
+  rotate: false
+  xy: 406, 606
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/Neon22
+  rotate: false
+  xy: 204, 2
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/Neon23
+  rotate: false
+  xy: 406, 304
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/Neon24
+  rotate: false
+  xy: 608, 606
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/Neon25
+  rotate: false
+  xy: 406, 2
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/Neon26
+  rotate: false
+  xy: 608, 304
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/Neon27
+  rotate: false
+  xy: 810, 606
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/Neon28
+  rotate: false
+  xy: 608, 2
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/Neon29
+  rotate: false
+  xy: 810, 304
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/Neon30
+  rotate: false
+  xy: 810, 2
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+
+newborn3.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Neon31
+  rotate: true
+  xy: 2, 2
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1

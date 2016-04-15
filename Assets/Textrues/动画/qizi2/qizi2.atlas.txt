@@ -1,0 +1,13 @@
+
+qizi2.png
+size: 64,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qizi2
+  rotate: false
+  xy: 2, 2
+  size: 31, 590
+  orig: 31, 590
+  offset: 0, 0
+  index: -1
