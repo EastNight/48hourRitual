@@ -7,15 +7,11 @@ public class Subtitle : MonoBehaviour {
     public float FadeOutTime;
     public float FadeInTime;
     public float NormalTime;
-	// Use this for initialization
-	void Start () {
+
+    void Start () {
 	    t= gameObject.GetComponent<Text>();
     }
 	
-	// Update is called once per frame
-	void Update () {
-	
-	}
     public void SetEnable()
     {
         gameObject.SetActive(true);

@@ -8,18 +8,16 @@ public class Dialog : MonoBehaviour {
     public float second;
     public bool StartDialog = false;
     float time = 0;
-    // Use this for initialization
     void Start () {
         played = new bool[25];
-	    for(int i=0;i<25;i++)
+        for(int i=0;i<25;i++)
         {
             played[i] = false;
         }
-        time = 0;
-	}
+            time = 0;
+    }
 	
-	// Update is called once per frame
-	void Update () {
+    void Update () {
         if(StartDialog)
         {
             time += Time.deltaTime;
@@ -36,6 +34,6 @@ public class Dialog : MonoBehaviour {
                 Destroy(this);
             }
         }
-       
-	}
+    }
+    
 }

@@ -67,7 +67,6 @@ public class GameMain : MonoBehaviour {
 				levelContianer.Add(lc);
 			}
 			levelList.Add(levelContianer);
-			// Debug.Log(i + " " + levelContianer.Count);
 		}
 		curLevel = 0;
 
@@ -108,7 +107,6 @@ public class GameMain : MonoBehaviour {
 		curProgress = 0;
 		RefreshLevelBg();
 		if(curLevel == 9){
-			// play to end
 			return false;
 		}
 
@@ -203,7 +201,6 @@ public class GameMain : MonoBehaviour {
 		else{
 			isGameStart = false;
 			SetToRightPos();
-			// Debug.Log("GotoNext GameStart");
 			GameStart();
 		}
 	}

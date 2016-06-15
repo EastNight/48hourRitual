@@ -2,17 +2,16 @@
 using System.Collections;
 
 public class Tool{
+
     public static float originX;
     public static float originY;
-	public static Vector3  GetHorizontalPos(Vector3 from){
 
+    public static Vector3  GetHorizontalPos(Vector3 from){
         var x = 2*originX- from.x ;
-        
-        
         return new Vector3(x,from.y);
-	}
+    }
 
-	public static Vector3  GetVerticalPos(Vector3 from, float? y){
+    public static Vector3  GetVerticalPos(Vector3 from, float? y){
         float posy;
         if (y==null)
         {
@@ -22,10 +21,9 @@ public class Tool{
         {
             posy = (float)(2 * y - from.y);
         }
-        
-
         return new Vector3(from.x,posy);
-	}
+    }
+
     public static Vector3 GetOriginPos(Vector3 from, Vector2? origin)
     {
         var vec = new Vector3();

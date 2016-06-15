@@ -33,42 +33,20 @@ public class PlayerMove : MonoBehaviour {
    public int signNow=0;
     public bool move = false;
    public Vector3 destination;
-	// Use this for initialization
-	void Start () {
+    float testTime = 0;
+
+    void Start () {
         Instance = this;
         SetLevel(level);
-	}
-    float testTime = 0;
-	// Update is called once per frame
-void Update () {
-        
-        // if (level == 2 || level == 3)
-        // {
-        //     if (Input.GetMouseButton(0))
-        //     {
-        //         move = true;
-        //     }
-        //     if (Input.GetMouseButtonUp(0))
-        //     {
-        //         move = false;
-        //     }
-            
-        // }
+    }
+    void Update () {
         if (move)
         {
             MoveSeveralRoad();
         }
         testTime += Time.deltaTime;
-        //if(testTime>2)
-        //{
-        //    SetLevel(1);
-
-        //}
-        //if(testTime>4)
-        //{
-        //    SetLevel(2);
-        //}
     }
+
     public void Level1Move(Vector3 pos)
     {
         if(level != 1) return;
@@ -121,34 +99,28 @@ void Update () {
 
         if((transform.position.y>destination.y) && (transform.position.y>roadSign[SignNow].transform.position.y))
         {
-            //Debug.Log(1);
             GameObjectMove(roadSign,SignNow+1,SignNow);
             
         }
         else if((transform.position.y < destination.y)   && (transform.position.y > roadSign[SignNow].transform.position.y) )
         {
-            //Debug.Log(2);
             GameObjectMove(roadSign, SignNow, SignNow+1); 
         }
         else if((transform.position.y - destination.y) > 0 && (transform.position.y < roadSign[SignNow].transform.position.y) )
         {
-            //Debug.Log(3);
             GameObjectMove(roadSign, SignNow, SignNow - 1); 
         }
         else if((transform.position.y < destination.y) && (transform.position.y < roadSign[SignNow].transform.position.y) )
         {
-            //Debug.Log(4);
             GameObjectMove(roadSign, SignNow -1, SignNow);
         }
         else if (transform.position.y == roadSign[SignNow].transform.position.y && transform.position.y < destination.y)
         {
-            //Debug.Log(5);
             GameObjectMove(roadSign, SignNow, SignNow + 1);
             
         }
         else if (transform.position.y == roadSign[SignNow].transform.position.y && transform.position.y > destination.y)
         {
-            //Debug.Log(6);
             GameObjectMove(roadSign, SignNow, SignNow-1);
             
         }
@@ -157,7 +129,6 @@ void Update () {
     void GameObjectMove(GameObject[] roadSign,int from ,int to)
     {
         Vector3 direction=Vector3.zero;
-        //Debug.Log("to:" + to + " from : " + from);
         if(from==-1 ||to==-1)
         {
             transform.position = new Vector3(transform.position.x, transform.position.y + 0.2f);
@@ -280,7 +251,6 @@ void Update () {
                 BG[i].SetActive(false);
             }
         }
-        //ChangePlayerFigure();
     }
     void CamerPosUp()
     {
@@ -300,11 +270,6 @@ void Update () {
         }
 
     }
-    void OnGame()
-    {
-
-    }
-
     void ChangePlayerFigure()
     {
         transform.GetComponent<Image>().sprite=playerFigure[level];

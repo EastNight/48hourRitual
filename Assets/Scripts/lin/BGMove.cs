@@ -14,10 +14,6 @@ public class BGMove : MonoBehaviour {
     {
         Instance = this;
     }
-	// Update is called once per frame
-	void Update () {
-        
-	}
     public bool VerticleMove(float verticleSpeed,int level)
     {
         var playPos = camera.WorldToScreenPoint(player.transform.position);

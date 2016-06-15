@@ -18,7 +18,7 @@ public class StartScene : MonoBehaviour {
     List<string> saName;
     List<float> times;
     SkeletonAnimation sa;
-    // Use this for initialization
+
     void Start () {
         title = GameObject.Find("SubtitleCanvas/Title").GetComponent<MainTitle>();
         saName =new List<string> (){ "stand", "wake", "walk2" };
@@ -69,7 +69,7 @@ public class StartScene : MonoBehaviour {
         }
         
     }
-	// Update is called once per frame
+
     void Update () {
         if (startAnimat)
             time += Time.deltaTime;
@@ -79,7 +79,6 @@ public class StartScene : MonoBehaviour {
             start = false;
             camera.orthographicSize = 1000;
             transform.GetComponent<Animator>().enabled=false;
-            //PlayerMove.Instance.
             Invoke("NextLevel", WaitTime);
         }
     }

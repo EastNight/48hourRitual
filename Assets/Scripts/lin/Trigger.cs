@@ -25,15 +25,7 @@ public class Trigger : MonoBehaviour {
     public string saAnimation;
 
     bool done=false;
-	// Use this for initialization
-	void Start () {
-	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
+
     void OnTriggerEnter2D(Collider2D other)
     {
         if (OnceTime && done)
@@ -58,7 +50,6 @@ public class Trigger : MonoBehaviour {
      
             src.PlayOneShot(clip,1);
         }
-        //Invoke("EnablePlayer", 2f);
         if(IsSubtitle)
         {
             SubtitleEnable();
